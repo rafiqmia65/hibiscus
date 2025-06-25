@@ -1,63 +1,71 @@
-# Hibiscus 🌺
+# 🌺 Hibiscus – Smart Job Tracking App
 
-**JobTracks** is a job tracking web application designed to simplify and organize your job-hunting process. Whether you're a fresh graduate or an experienced professional, JobTracks helps you:
-
-- 🔎 Browse jobs from various companies
-- 💾 Save jobs to your Read List or Wish List
-- 🗂️ Track applied and interested jobs easily
-- ⚙️ View company-wise job listings with full details
-- 📱 Enjoy a responsive UI optimized for mobile and desktop
-- 🔐 Stay secure with Firebase authentication
-
-
-
-The platform provides a central place to manage job applications effectively with real-time interactivity and sleek UI animations.
+**Hibiscus** is a modern, responsive job tracking web application that helps job seekers organize and streamline their job search. Whether you're a fresh graduate or a working professional, Hibiscus allows you to browse jobs, save them to personalized lists, and track application progress — all within an elegant user interface.
 
 ---
 
-## 🚀 Features
+## 🔗 Live Link
 
-- 🔥 Built with **Vite** for super fast development
-- ⚛️ Uses **React 19** with **React Router v7** for smooth routing
-- 🎨 Styled with **Tailwind CSS 4** and **DaisyUI**
-- 🔐 **Firebase** for authentication and backend services
-- 🎞️ Page and element animations with **Framer Motion**
-- 🔔 Toaster notifications with **React Toastify**
-- 🧠 SEO optimized using **React Helmet Async**
-- 📊 Animated number counters using **React CountUp**
+👉 [https://hibiscus-feee5.web.app/](https://hibiscus-feee5.web.app/)
+
+---
+
+## ✨ Core Features
+
+- 🔎 Browse job listings from various companies
+- 💾 Save jobs to your **Read List** or **Wish List**
+- 📌 Track applied and interested jobs effortlessly
+- 🏢 View company-specific job listings with detailed information
+- 📱 Fully responsive design optimized for both mobile and desktop
+- 🔐 Secure authentication with **Firebase** (Email/Password & Google)
+- ⚡ Real-time interaction and smooth UI animations
+
+---
+
+## 🚀 Technologies & Tools
+
+- ⚛️ Built with **React 19** and **React Router v7**
+- ⚡ Powered by **Vite** for lightning-fast development
+- 🎨 Styled using **Tailwind CSS 4** and **DaisyUI**
+- 🔐 Authentication and backend via **Firebase**
+- 🎞️ Page transitions with **Framer Motion**
+- 🔔 Notifications using **React Toastify**
+- 🧠 SEO-friendly with **React Helmet Async**
+- 📊 Animated stats with **React CountUp**
 
 ---
 
 ## 📁 Tech Stack
 
-| Tech           | Description                         |
-| -------------- | ----------------------------------- |
-| React          | Frontend framework                  |
-| Vite           | Lightning-fast bundler + dev server |
-| Tailwind CSS   | Utility-first CSS framework         |
-| DaisyUI        | Tailwind component library          |
-| Firebase       | Authentication & backend services   |
-| React Router   | Declarative routing                 |
-| Framer Motion  | Declarative animations              |
-| React Toastify | Elegant toast notifications         |
-| React Helmet   | Dynamic meta tag management         |
+| Tech            | Description                         |
+| --------------- | ----------------------------------- |
+| React 19        | Frontend framework                  |
+| Vite            | Fast bundler & dev server           |
+| Tailwind CSS 4  | Utility-first CSS framework         |
+| DaisyUI         | Tailwind-based component library    |
+| Firebase        | Authentication & backend services   |
+| React Router v7 | Client-side routing                 |
+| Framer Motion   | Smooth page and element animation   |
+| React Toastify  | User-friendly toast notifications   |
+| React Helmet    | Dynamic SEO meta tag management     |
+| React CountUp   | Animated counters for stats display |
 
 ---
 
-## 🛠️ Scripts
+## 🛠️ Available Scripts
 
-| Script            | Description                      |
-| ----------------- | -------------------------------- |
-| `npm run dev`     | Start local development server   |
-| `npm run build`   | Build the app for production     |
-| `npm run preview` | Preview production build locally |
-| `npm run lint`    | Run ESLint to check for issues   |
+| Command           | Description                     |
+| ----------------- | ------------------------------- |
+| `npm run dev`     | Starts the development server   |
+| `npm run build`   | Builds the app for production   |
+| `npm run preview` | Previews the production build   |
+| `npm run lint`    | Lints the codebase using ESLint |
 
 ---
 
-## 🧪 Linting & Code Quality
+## 🧪 Code Quality & Linting
 
-This project includes ESLint with:
+Includes ESLint configuration to enforce clean and consistent code:
 
 - [`eslint`](https://eslint.org/)
 - [`eslint-plugin-react-hooks`](https://www.npmjs.com/package/eslint-plugin-react-hooks)
@@ -66,19 +74,19 @@ This project includes ESLint with:
 
 ---
 
-## 📦 Installation
+## 📦 Installation & Setup
 
 ```bash
-# Clone the repo
+# Clone the repository
 git clone https://github.com/rafiqmia65/hibiscus.git
 
-# Navigate to the project directory
+# Navigate into the project directory
 cd hibiscus
 
 # Install dependencies
 npm install
 
-# Start development server
+# Start the development server
 npm run dev
 
 ```
