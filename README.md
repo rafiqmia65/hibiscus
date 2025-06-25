@@ -68,7 +68,7 @@ This project includes ESLint with:
 
 ```bash
 # Clone the repo
-git clone https://github.com/your-username/hibiscus.git
+git clone https://github.com/rafiqmia65/hibiscus.git
 
 # Navigate to the project directory
 cd hibiscus
