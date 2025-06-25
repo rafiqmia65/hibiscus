@@ -1,0 +1,44 @@
+[
+  {
+    "id": 1,
+    "date": "10 Jul 2022",
+    "image": "https://i.ibb.co.com/0RTmwQy7/Jobstock-Agency.jpg",
+    "title": "How To Work with JobTracks Agency",
+    "description": "Discover the best practices for starting your journey with JobTracks and landing your dream role effectively."
+  },
+  {
+    "id": 2,
+    "date": "17 Jan 2025",
+    "image": "https://i.ibb.co.com/9kZ1h7bg/Asp-Remote-Work-Opportunities.jpg",
+    "title": "Remote Work Opportunities in 2023",
+    "description": "Explore how remote work is reshaping the job market and how you can benefit from it."
+  },
+  {
+    "id": 3,
+    "date": "26 Feb 2025",
+    "image": "https://i.ibb.co.com/mCj03GN0/Top10-In-Demand-Skills-Employers-Seek.jpg",
+    "title": "Top 10 In-Demand Skills Employers Seek",
+    "description": "Stay ahead in your career by learning which skills are attracting top recruiters."
+  },
+  {
+    "id": 4,
+    "date": "04 Mar 2025",
+    "image": "https://i.ibb.co.com/ymPMzkJJ/Professional-Resumein2023.jpg",
+    "title": "Building a Professional Resume in 2025",
+    "description": "Tips and tools to create a modern, eye-catching resume that impresses recruiters."
+  },
+  {
+    "id": 5,
+    "date": "15 Apr 2025",
+    "image": "https://i.ibb.co.com/6RTZ4YH2/You-Must-Prepare-For.jpg",
+    "title": "Interview Questions You Must Prepare For",
+    "description": "A guide to the most common and tricky interview questions—and how to answer them."
+  },
+  {
+    "id": 6,
+    "date": "02 May 2024",
+    "image": "https://i.ibb.co.com/Q3YHC9kH/Internships-Boost-Your-Career.jpg",
+    "title": "How Internships Boost Your Career",
+    "description": "Understand the value of internships and how they can be a stepping stone to full-time roles."
+  }
+]

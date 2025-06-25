@@ -1,0 +1,554 @@
+[
+  {
+    "id": "5b3ff3b1-805f-41fe-bfcb-cd53792f9390",
+    "name": "TechHive Solutions",
+    "logo": "https://i.ibb.co.com/XfRbNS0x/TechHive.webp",
+    "location": "Atlanta, GA",
+    "website": "https://techhivesolutions.com",
+    "industry": "Cybersecurity",
+    "jobs": [
+      {
+        "id": "3162d5ff-06aa-43bd-b839-921ac80f6e3a",
+        "title": "Machine Learning Engineer",
+        "bannerImage": "https://i.ibb.co.com/84zGrW9V/Machine-Learning-Engineerjobcoverimageforwebsite.jpg",
+        "location": "Chicago, IL",
+        "salary": "$72000 - $159000",
+        "jobType": "Contract",
+        "description": "Are you ready to push the boundaries of machine learning and build intelligent systems? We are looking for a Machine Learning Engineer to join our team in Chicago, IL! This contract-based role offers a competitive salary range of $72,000 - $159,000, providing an exciting opportunity to work on cutting-edge AI solutions in a collaborative environment.As a Machine Learning Engineer, you will work with CI/CD tools to automate and streamline machine learning model deployment. Your knowledge of cloud platforms like AWS will be essential in designing scalable AI solutions. Strong problem-solving skills will help in tackling complex challenges, while excellent communication skills will be key in collaborating with cross-functional teams. Additionally, an understanding of responsive design ensures a seamless user experience across applications.If you're passionate about harnessing AI to solve real-world problems, apply today and help shape the future of machine learning!",
+        "requirements": [
+          "Familiarity with CI/CD tools",
+          "Knowledge of cloud platforms like AWS",
+          "Strong problem-solving skills",
+          "Excellent communication skills",
+          "Understanding of responsive design"
+        ]
+      },
+      {
+        "id": "74570059-c07f-4850-9083-8c891cbb4ad9",
+        "title": "DevOps Engineer",
+        "bannerImage": "https://i.ibb.co.com/PG1tdhkx/Dev-Ops-Engineer-job-cover-image-for-website.jpg",
+        "location": "Los Angeles, CA",
+        "salary": "$104000 - $161000",
+        "jobType": "Part-time",
+        "description": "Looking for a career in DevOps? We are offering an exciting part-time DevOps Engineer position in Los Angeles, CA, with a competitive salary range of $104,000 - $161,000! This role provides the perfect opportunity to collaborate with industry professionals and work on optimizing development pipelines.As a DevOps Engineer, you will leverage your knowledge of Git and version control to maintain structured workflows and ensure smooth project execution. Your understanding of responsive design will allow you to support frontend developers in delivering seamless user experiences. Strong problem-solving skills will be essential for troubleshooting deployment and infrastructure challenges, while familiarity with CI/CD tools will streamline automation and deployment processes. Additionally, excellent communication skills will help in coordinating effectively with various teams.If you're passionate about DevOps and want to take your skills to the next level, this opportunity is ideal for you. Apply today and become a valuable part of a dynamic and forward-thinking team!",
+        "requirements": [
+          "Knowledge of Git and version control",
+          "Understanding of responsive design",
+          "Strong problem-solving skills",
+          "Familiarity with CI/CD tools",
+          "Excellent communication skills"
+        ]
+      },
+      {
+        "id": "6568c436-d9e0-4237-abd3-6299d09e1ecf",
+        "title": "Backend Developer",
+        "bannerImage": "https://i.ibb.co.com/RTgSKb0B/Backend-Developer-job-cover-image-for-website.jpg",
+        "location": "Seattle, WA",
+        "salary": "$93000 - $141000",
+        "jobType": "Full-time",
+        "description": "We are looking for a skilled Backend Developer to join our team in Seattle, WA! This full-time role offers a competitive salary range of $93,000 - $141,000 and presents an excellent opportunity to work in a dynamic and fast-paced environment.As a Backend Developer, you will be responsible for optimizing server-side applications, ensuring seamless functionality, and maintaining efficient workflows. Your familiarity with CI/CD tools will be essential for managing smooth deployment pipelines, while your knowledge of Git and version control will help maintain structured collaboration with developers. Expertise in cloud platforms like AWS ensures scalable and secure cloud integrations, and hands-on experience with REST APIs allows for seamless data communication across services. Additionally, your excellent communication skills will be crucial for working closely with cross-functional teams.If you're passionate about backend development and eager to tackle exciting challenges, this opportunity is perfect for you. Apply today and become a key part of our growing team!",
+        "requirements": [
+          "Familiarity with CI/CD tools",
+          "Knowledge of Git and version control",
+          "Knowledge of cloud platforms like AWS",
+          "Experience with REST APIs",
+          "Excellent communication skills"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "83c2f907-462f-4cb8-9f43-bb59f8bbb986",
+    "name": "DataNest Analytics",
+    "logo": "https://i.ibb.co.com/chhfPgYB/datanestanalytics.jpg",
+    "location": "Boston, MA",
+    "website": "https://datanestanalytics.com",
+    "industry": "Data Science & AI",
+    "jobs": [
+      {
+        "id": "56594618-de16-4683-b297-eeccdb475da6",
+        "title": "Machine Learning Engineer",
+        "bannerImage": "https://i.ibb.co.com/3XxC3KJ/Machine-Learning-Engineerjobcoverimageforwebsite2.jpg",
+        "location": "Remote",
+        "salary": "$94000 - $174000",
+        "jobType": "Full-time",
+        "description": "Are you passionate about artificial intelligence and building intelligent systems? We are looking for a skilled Machine Learning Engineer to join our team in a remote, full-time capacity! This role offers a competitive salary range of $94,000 - $174,000, providing a fantastic opportunity to develop and deploy machine learning models in a dynamic and collaborative environment.As a Machine Learning Engineer, you will work with REST APIs to efficiently process and integrate data across various applications. Your experience in agile development will allow you to adapt quickly to evolving challenges and ensure a seamless workflow. Strong knowledge of Git and version control will help maintain structured code repositories and streamline project collaboration. Additionally, expertise in cloud platforms like AWS will be essential for optimizing scalable solutions. Your ability to work in a team will ensure effective communication and cross-functional synergy.If you are ready to innovate and drive the future of machine learning, apply today and take your career to new heights!",
+        "requirements": [
+          "Experience with REST APIs",
+          "Experience in agile development",
+          "Knowledge of Git and version control",
+          "Knowledge of cloud platforms like AWS",
+          "Ability to work in a team"
+        ]
+      },
+      {
+        "id": "df42930a-63da-4197-ab8c-3f484bd57fe0",
+        "title": "UI/UX Designer",
+        "bannerImage": "https://i.ibb.co.com/PGPn2hvJ/UI-UXDesignerjobcoverimageforwebsitewithdesignelements.jpg",
+        "location": "Chicago, IL",
+        "salary": "$102000 - $174000",
+        "jobType": "Part-time",
+        "description": "Are you passionate about creating seamless and intuitive user experiences? We are seeking a talented UI/UX Designer to join our team in Chicago, IL! This part-time role offers a competitive salary range of $102,000 - $174,000, providing an opportunity to design innovative digital products in a collaborative environment.As a UI/UX Designer, you will work on crafting visually engaging and user-friendly interfaces while ensuring smooth integration with REST APIs. Your excellent communication skills will be essential for collaborating with developers and stakeholders to bring designs to life. A strong knowledge of cloud platforms like AWS will help optimize digital solutions, and your ability to work in a team will foster efficient project execution. Experience with Git and version control ensures structured design iterations and smooth workflow management.If you are eager to shape digital experiences through thoughtful design, join our team and make a lasting impact!",
+        "requirements": [
+          "Experience with REST APIs",
+          "Excellent communication skills",
+          "Knowledge of cloud platforms like AWS",
+          "Ability to work in a team",
+          "Knowledge of Git and version control"
+        ]
+      },
+      {
+        "id": "f0640e5c-d662-46b8-a0b7-28f0139f5cdb",
+        "title": "Data Scientist",
+        "bannerImage": "https://i.ibb.co.com/VWj2DdT4/Data-Scientistjobcoverimageforwebsitewithdatascienceelements.jpg",
+        "location": "Los Angeles, CA",
+        "salary": "$65000 - $133000",
+        "jobType": "Part-time",
+        "description": "Are you passionate about uncovering insights from data and driving impactful decisions? We are seeking a part-time Data Scientist to join our team in Los Angeles, CA! This role offers a competitive salary range of $65,000 - $133,000 and provides an opportunity to work on innovative projects while maintaining flexibility. As a Data Scientist, you will leverage your proficiency in JavaScript and React to develop interactive data-driven applications. Your knowledge of Git and version control ensures efficient collaboration within the team, while experience in agile development allows you to adapt to evolving challenges smoothly. Strong communication skills are essential for articulating insights effectively, and familiarity with REST APIs will be crucial for handling data integrations. This role is perfect for individuals seeking a balance between professional growth and flexibility. Join our dynamic team and help shape data-driven strategies! ",
+        "requirements": [
+          "Proficient in JavaScript and React",
+          "Knowledge of Git and version control",
+          "Excellent communication skills",
+          "Experience in agile development",
+          "Experience with REST APIs"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "b21ae11d-beb9-4340-9c77-5ea50dde5267",
+    "name": "CloudCraft Ltd.",
+    "logo": "https://i.ibb.co.com/XZsyVVc7/Cloud-Craft-Ltd.jpg",
+    "location": "San Francisco, CA",
+    "website": "https://cloudcraftltd..com",
+    "industry": "Healthcare Tech",
+    "jobs": [
+      {
+        "id": "e498b134-a9fc-42e7-aa84-cc830d0f75ad",
+        "title": "Data Scientist",
+        "bannerImage": "https://i.ibb.co.com/RkzygSQN/Data-Scientistjobcoverimageforwebsitewithdatascienceelements2.jpg",
+        "location": "Austin, TX",
+        "salary": "$83000 - $138000",
+        "jobType": "Full-time",
+        "description": "Are you a data-driven problem solver eager to make a meaningful impact? We are looking for a talented Data Scientist to join our team in Austin, TX! This full-time role offers a competitive salary range of $83,000 - $138,000 and provides an exciting opportunity to work on cutting-edge data solutions. As a Data Scientist, you will leverage your experience with REST APIs to efficiently process and integrate large datasets. Your proficiency in JavaScript and React will be valuable for developing interactive visualizations and analytical dashboards. Strong problem-solving skills will be essential in tackling complex data challenges and deriving actionable insights. Additionally, familiarity with CI/CD tools will allow you to streamline deployment processes, while an understanding of responsive design ensures a seamless user experience across platforms.This role is perfect for individuals who thrive in fast-paced environments and are passionate about harnessing data for innovation. Apply today and be part of a forward-thinking team!",
+        "requirements": [
+          "Experience with REST APIs",
+          "Proficient in JavaScript and React",
+          "Strong problem-solving skills",
+          "Familiarity with CI/CD tools",
+          "Understanding of responsive design"
+        ]
+      },
+      {
+        "id": "44e3e521-9d0c-4665-940f-d30e7cca68f4",
+        "title": "Data Scientist",
+        "bannerImage": "https://i.ibb.co.com/spcbhyVh/datascienceelements.jpg",
+        "location": "Denver, CO",
+        "salary": "$98000 - $173000",
+        "jobType": "Internship",
+        "description": "Are you passionate about data science and eager to gain hands-on experience? We have an exciting Data Scientist Internship opportunity in Denver, CO! This internship is designed to provide practical exposure to data-driven problem solving while working in a dynamic and collaborative environment. As a Data Scientist Intern, you will work with REST APIs to retrieve and process data efficiently. Your proficiency in JavaScript and React will help you develop interactive dashboards and analytical tools. Strong problem-solving skills will be key in tackling complex challenges, ensuring accurate and meaningful insights from datasets. Additionally, familiarity with CI/CD tools will allow you to streamline the development process, while a solid grasp of Git and version control ensures seamless collaboration within the team. With a competitive salary range of $98,000 - $173,000, this internship is a fantastic opportunity to strengthen your skills and grow within a supportive and innovative team. Apply now and take the next step in your data science journey!",
+        "requirements": [
+          "Experience with REST APIs",
+          "Proficient in JavaScript and React",
+          "Strong problem-solving skills",
+          "Familiarity with CI/CD tools",
+          "Knowledge of Git and version control"
+        ]
+      },
+      {
+        "id": "e9bf41e1-e8bb-4436-a3aa-9270117b337b",
+        "title": "Cloud Solutions Architect",
+        "bannerImage": "https://i.ibb.co.com/4wCt6c1Z/Cloud-Solutions-Architect.jpg",
+        "location": "Los Angeles, CA",
+        "salary": "$120000 - $160000",
+        "jobType": "Contract",
+        "description": "Are you a strategic thinker with a passion for cloud technology? We are seeking a Cloud Solutions Architect to join our team in Los Angeles, CA! This contract-based position offers a competitive salary range of $120,000 - $160,000 and is an exciting opportunity to design and implement scalable cloud solutions in a dynamic environment. As a Cloud Solutions Architect, you will play a critical role in developing cloud infrastructure, ensuring seamless integrations, and optimizing system performance. Your familiarity with CI/CD tools will be essential in automating deployment processes and maintaining continuous delivery pipelines. A strong understanding of Git and version control will allow for efficient collaboration, while your ability to work in a team ensures smooth cross-functional coordination. Additionally, expertise in responsive design will help craft cloud solutions that support modern applications, and experience in agile development will keep projects flexible and adaptive. If you're ready to take your cloud architecture expertise to the next level, apply today and be part of a transformative journey!",
+        "requirements": [
+          "Familiarity with CI/CD tools",
+          "Knowledge of Git and version control",
+          "Ability to work in a team",
+          "Understanding of responsive design",
+          "Experience in agile development"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "830fd97b-d506-411a-aa43-68257db397cb",
+    "name": "InnovaWorks",
+    "logo": "https://i.ibb.co.com/bjZFBBjC/Innova-Works.jpg",
+    "location": "Remote",
+    "website": "https://innovaworks.com",
+    "industry": "FinTech",
+    "jobs": [
+      {
+        "id": "8543b0bd-3f0a-4566-ab71-4c69080bcf63",
+        "title": "QA Engineer",
+        "bannerImage": "https://i.ibb.co.com/hJ31nWmb/QAEngineerjob.jpg",
+        "location": "Atlanta, GA",
+        "salary": "$96000 - $145000",
+        "jobType": "Internship",
+        "description": "Are you eager to refine software quality and ensure seamless user experiences? We are excited to offer a QA Engineer Internship opportunity in Atlanta, GA! This position is ideal for individuals who are passionate about software testing, debugging, and optimizing digital products. As a QA Engineer Intern, you will work alongside a talented team to evaluate applications, identify potential issues, and implement reliable solutions. Your proficiency in JavaScript and React will be crucial for testing interactive user interfaces. Familiarity with CI/CD tools will allow you to support continuous deployment processes, and your excellent communication skills will be essential in collaborating with developers, designers, and product managers. A strong understanding of Git and version control ensures efficient code tracking, while experience with REST APIs will help in assessing API integrations and data flows. With a competitive salary range of $96,000 - $145,000, this internship is a fantastic stepping stone into the world of quality assurance and software development. Join our team and help deliver top-notch software solutions!",
+        "requirements": [
+          "Proficient in JavaScript and React",
+          "Familiarity with CI/CD tools",
+          "Excellent communication skills",
+          "Knowledge of Git and version control",
+          "Experience with REST APIs"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "b2aa59f8-afb8-4887-8f51-08ff082ec51a",
+    "name": "PixelForge Studios",
+    "logo": "https://i.ibb.co.com/S7GCYYwk/Pixel-Forge-Studios.jpg",
+    "location": "Denver, CO",
+    "website": "https://pixelforgestudios.com",
+    "industry": "E-commerce Solutions",
+    "jobs": [
+      {
+        "id": "f56ccb43-b3f6-4df1-aee3-4cd36e9a86ce",
+        "title": "DevOps Engineer",
+        "bannerImage": "https://i.ibb.co.com/PG1tdhkx/Dev-Ops-Engineer-job-cover-image-for-website.jpg",
+        "location": "Los Angeles, CA",
+        "salary": "$94000 - $158000",
+        "jobType": "Internship",
+        "description": "Are you passionate about streamlining development workflows and optimizing system performance? We are offering an exciting DevOps Engineer Internship opportunity in Los Angeles, CA! This role provides hands-on experience in designing and implementing efficient deployment processes while working alongside industry professionals.As a DevOps Engineer Intern, you will gain exposure to CI/CD tools, helping automate software deployments and improve system reliability. Your strong problem-solving skills will be essential in troubleshooting infrastructure and workflow challenges. An understanding of responsive design ensures smooth collaboration with front-end developers, while your proficiency in JavaScript and React will allow you to enhance development processes. Experience with REST APIs is valuable for integrating various services and optimizing application performance. With a competitive salary range of $94,000 - $158,000, this internship is a great opportunity to build a strong foundation in DevOps practices. Join us to advance your career in a fast-paced and innovative environment!",
+        "requirements": [
+          "Familiarity with CI/CD tools",
+          "Strong problem-solving skills",
+          "Understanding of responsive design",
+          "Proficient in JavaScript and React",
+          "Experience with REST APIs"
+        ]
+      },
+      {
+        "id": "3b05ed2f-3d8c-4619-8a5e-4b370367413c",
+        "title": "Backend Developer",
+        "bannerImage": "https://i.ibb.co.com/cXQzhkbb/Backend-Developerjob.jpg",
+        "location": "San Francisco, CA",
+        "salary": "$93000 - $171000",
+        "jobType": "Contract",
+        "description": "As a Backend Developer, you will be responsible for designing and optimizing server-side applications, ensuring seamless functionality, and maintaining efficient workflows. A strong understanding of responsive design will be essential for ensuring that backend services support a cohesive front-end experience. Experience with Git and version control will allow you to collaborate effectively within an agile team, while familiarity with CI/CD tools will streamline development processes. Excellent communication skills are crucial for working closely with cross-functional teams, and a solid foundation in agile development will ensure flexibility and efficiency. If you're passionate about backend development and eager to work on impactful projects, this opportunity is perfect for you. Apply today and take your career to new heights!",
+        "requirements": [
+          "Understanding of responsive design",
+          "Knowledge of Git and version control",
+          "Familiarity with CI/CD tools",
+          "Excellent communication skills",
+          "Experience in agile development"
+        ]
+      },
+      {
+        "id": "684b0af5-f11e-4e9e-99f4-8c708118a201",
+        "title": "Data Scientist",
+        "bannerImage": "https://i.ibb.co.com/m5DXJ6kR/Data-Scientist.jpg",
+        "location": "San Francisco, CA",
+        "salary": "$107000 - $131000",
+        "jobType": "Internship",
+        "description": "Are you passionate about data and eager to make an impact in the world of data science? We are looking for a motivated Data Scientist Intern to join our dynamic team in San Francisco, CA. This internship offers a unique opportunity to work with experienced professionals, gain hands-on experience, and contribute to meaningful projects in a fast-paced environment. As a Data Scientist Intern, you will collaborate with cross-functional teams to analyze complex datasets, extract valuable insights, and implement data-driven solutions. You will leverage JavaScript and React to enhance user interactions and apply agile development principles to efficiently manage tasks. Additionally, familiarity with Git and version control will be essential for maintaining structured workflows. Problem-solving skills and teamwork are key, as you will work closely with other experts to tackle challenging problems and develop innovative solutions. With a competitive salary range of $107,000 - $131,000, this role is designed to offer valuable industry experience and set you up for a successful career in data science. Join us today and be part of something transformative!",
+        "requirements": [
+          "Proficient in JavaScript and React",
+          "Experience in agile development",
+          "Knowledge of Git and version control",
+          "Strong problem-solving skills",
+          "Ability to work in a team"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "48b42d31-a900-43e7-94fe-adce9e785ac7",
+    "name": "NeoGen Systems",
+    "logo": "https://i.ibb.co.com/WNQvF4KM/Neo-Gen-Systems.jpg",
+    "location": "Remote",
+    "website": "https://neogensystems.com",
+    "industry": "Design & Creative",
+    "jobs": [
+      {
+        "id": "74d986c9-1191-4bf2-b25e-f5c6b8cfb516",
+        "title": "Cloud Solutions Architect",
+        "bannerImage": "https://i.ibb.co.com/4wCt6c1Z/Cloud-Solutions-Architect.jpg",
+        "location": "Los Angeles, CA",
+        "salary": "$87000 - $167000",
+        "jobType": "Part-time",
+        "description": "We are seeking a highly skilled Cloud Solutions Architect for a part-time role based in Los Angeles, CA. This is a unique opportunity to be part of a fast-paced and innovative environment where you’ll design and implement robust, scalable cloud solutions tailored to meet business and technical objectives. The ideal candidate should have hands-on experience with AWS or similar cloud platforms, a solid understanding of CI/CD tools, and be proficient in JavaScript and React. Strong problem-solving skills and an eye for responsive design are essential. You will work closely with cross-functional teams to architect systems that are not only secure and reliable but also optimized for performance and cost. If you are someone who enjoys solving complex infrastructure challenges and wants to influence critical technology decisions, this role offers the flexibility of part-time work while keeping you at the forefront of cloud innovation.",
+        "requirements": [
+          "Strong problem-solving skills",
+          "Understanding of responsive design",
+          "Familiarity with CI/CD tools",
+          "Knowledge of cloud platforms like AWS",
+          "Proficient in JavaScript and React"
+        ]
+      },
+      {
+        "id": "94354e25-fd5d-40ba-8067-3dc8c471634a",
+        "title": "Backend Developer",
+        "bannerImage": "https://i.ibb.co.com/chFzVgty/Backend-Developerjob.jpg",
+        "location": "Denver, CO",
+        "salary": "$103000 - $159000",
+        "jobType": "Part-time",
+        "description": "We are looking for a skilled and driven Backend Developer for a part-time role based in Denver, CO. In this position, you will be responsible for developing and maintaining the server-side logic of our web applications, ensuring responsiveness and performance. You’ll work collaboratively with front-end developers, designers, and DevOps engineers to deliver robust and scalable backend solutions. The ideal candidate should be proficient in JavaScript, have a solid understanding of CI/CD pipelines, and be comfortable using version control tools such as Git. A strong problem-solving mindset, teamwork capability, and a clear understanding of backend best practices are essential. Familiarity with cloud services and modern deployment techniques is a plus. This is an excellent opportunity for someone seeking flexibility while contributing meaningfully to high-impact projects within a dynamic, tech-driven environment.",
+        "requirements": [
+          "Ability to work in a team",
+          "Strong problem-solving skills",
+          "Proficient in JavaScript and React",
+          "Familiarity with CI/CD tools",
+          "Knowledge of Git and version control"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "6e7a4920-017c-4673-8ad2-a4d77fe45c53",
+    "name": "SkyBridge Tech",
+    "logo": "https://i.ibb.co.com/yF7FPqJG/Sky-Bridge-Techforwebsite.jpg",
+    "location": "Denver, CO",
+    "website": "https://skybridgetech.com",
+    "industry": "E-commerce Solutions",
+    "jobs": [
+      {
+        "id": "7e596603-4a15-4a6e-88a1-e2ff91dec869",
+        "title": "Machine Learning Engineer",
+        "bannerImage": "https://i.ibb.co.com/WvXfMJc2/Machine-Learning-Engineer.jpg",
+        "location": "New York, NY",
+        "salary": "$79000 - $150000",
+        "jobType": "Internship",
+        "description": "We are excited to offer an internship opportunity for a passionate and motivated Machine Learning Engineer based in New York, NY. In this role, you will work closely with our data science and engineering teams to design, develop, and deploy machine learning models that drive innovation in our products and services. You'll contribute to the entire ML pipeline, from data preprocessing and model training to evaluation and deployment. The ideal candidate should be comfortable with REST APIs and agile development methodologies. Familiarity with CI/CD tools and cloud environments will be a strong plus. You must possess excellent communication skills and demonstrate the ability to work effectively in a team-oriented environment. This internship offers real-world experience, mentorship, and the opportunity to grow your expertise in AI and ML technologies while contributing to impactful projects. If you're eager to kickstart your career in machine learning, this is the perfect place to begin.",
+        "requirements": [
+          "Excellent communication skills",
+          "Experience with REST APIs",
+          "Experience in agile development",
+          "Familiarity with CI/CD tools",
+          "Ability to work in a team"
+        ]
+      },
+      {
+        "id": "b1bf5a29-49d3-4957-9f4b-dee52fb81bbe",
+        "title": "UI/UX Designer",
+        "bannerImage": "https://i.ibb.co.com/B2ZYHz2s/UI-UXDesigner.jpg",
+        "location": "Atlanta, GA",
+        "salary": "$75000 - $172000",
+        "jobType": "Full-time",
+        "description": "We are seeking a creative and detail-driven UI/UX Designer to join our team full-time in Atlanta, GA. As a UI/UX Designer, you will be responsible for crafting intuitive user experiences and visually appealing interfaces that enhance user satisfaction and product usability. You will collaborate with product managers, developers, and other designers to understand requirements and translate them into thoughtful wireframes, prototypes, and final UI designs. The ideal candidate is comfortable working in a collaborative, fast-paced environment and is well-versed in modern design tools and principles. Familiarity with REST APIs, cloud platforms like AWS, and CI/CD pipelines will be a strong advantage. A deep understanding of responsive design and a passion for clean, user-centered aesthetics are essential. If you’re looking to make a real impact through design while growing your skill set in a supportive environment, we’d love to have you on board.",
+        "requirements": [
+          "Knowledge of cloud platforms like AWS",
+          "Experience with REST APIs",
+          "Ability to work in a team",
+          "Familiarity with CI/CD tools",
+          "Understanding of responsive design"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "03765543-f469-410d-9878-5c439d731109",
+    "name": "CodeCrafters Inc.",
+    "logo": "https://i.ibb.co.com/tMz5J2JG/Cloud-Craft-Ltd.jpg",
+    "location": "Chicago, IL",
+    "website": "https://codecraftersinc..com",
+    "industry": "FinTech",
+    "jobs": [
+      {
+        "id": "0dc790fa-ce48-45a5-a396-5ec264d1a52f",
+        "title": "QA Engineer",
+        "bannerImage": "https://i.ibb.co.com/LXDbm6C6/QAEngineerjobcover.jpg",
+        "location": "Austin, TX",
+        "salary": "$83000 - $141000",
+        "jobType": "Internship",
+        "description": "We are excited to offer an internship opportunity for a dedicated and detail-oriented QA Engineer in Austin, TX. In this role, you will work closely with our development team to ensure the quality, reliability, and performance of our software products. You’ll be involved in writing and executing test cases, identifying bugs, and contributing to the overall improvement of our testing processes. A strong understanding of REST APIs, Git version control, and agile development workflows is preferred. The ideal candidate is a team player with excellent problem-solving abilities and a keen eye for identifying inconsistencies in software behavior. You’ll gain hands-on experience in both manual and automated testing environments, while also improving your technical communication and collaboration skills. If you're looking to launch your career in QA with real-world exposure in a fast-paced, supportive environment — we’d love to hear from you.",
+        "requirements": [
+          "Knowledge of Git and version control",
+          "Experience with REST APIs",
+          "Strong problem-solving skills",
+          "Experience in agile development",
+          "Ability to work in a team"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "ca065b96-0baa-457f-b76b-30a619480c4c",
+    "name": "QuantumSoft",
+    "logo": "https://i.ibb.co.com/0ytGj4BD/Quantum-Soft.jpg",
+    "location": "Austin, TX",
+    "website": "https://quantumsoft.com",
+    "industry": "Design & Creative",
+    "jobs": [
+      {
+        "id": "912f6299-17fb-4d3d-a08f-713b5a1b7425",
+        "title": "Full Stack Developer",
+        "bannerImage": "https://i.ibb.co.com/c4RsnK9/Full-Stack-Developer.jpg",
+        "location": "Chicago, IL",
+        "salary": "$90000 - $130000",
+        "jobType": "Contract",
+        "description": "We are hiring a talented and detail-oriented Full Stack Developer for a contract position in Chicago, IL. In this role, you will be responsible for developing both frontend and backend components of modern web applications. You’ll work with product and design teams to create responsive and scalable features while ensuring high performance and usability. The ideal candidate is well-versed in agile development methodologies and possesses hands-on experience with version control systems like Git. You should have strong problem-solving skills, excellent communication abilities, and a solid understanding of cloud platforms such as AWS. Your contributions will directly impact our application’s reliability and user experience. If you're passionate about full stack development, enjoy working in a collaborative environment, and are seeking a flexible contract role where your work will make a real difference — this is the perfect opportunity for you.",
+        "requirements": [
+          "Experience in agile development",
+          "Knowledge of Git and version control",
+          "Strong problem-solving skills",
+          "Excellent communication skills",
+          "Knowledge of cloud platforms like AWS"
+        ]
+      },
+      {
+        "id": "b775b247-4657-4bf4-8947-d109d0224e30",
+        "title": "Backend Developer",
+        "bannerImage": "https://i.ibb.co.com/8LD16D50/Backend-Developer.jpg",
+        "location": "New York, NY",
+        "salary": "$110000 - $172000",
+        "jobType": "Part-time",
+        "description": "We are seeking a talented and driven Backend Developer to join our team on a part-time basis in New York, NY. This role involves designing and implementing server-side logic, developing robust APIs, and working with cloud-based infrastructure to ensure high performance and responsiveness across our applications. As a Backend Developer, you will collaborate with front-end developers, DevOps engineers, and product managers to build and maintain scalable backend systems. The ideal candidate is experienced in working with RESTful APIs, cloud platforms such as AWS, and has a solid understanding of responsive system architecture. A strong foundation in agile development methodologies and excellent problem-solving skills are essential. You should also be comfortable working independently as well as in a collaborative environment. This is a great opportunity to contribute to impactful projects while enjoying flexible hours and the ability to grow your expertise in backend technologies.",
+        "requirements": [
+          "Strong problem-solving skills",
+          "Knowledge of cloud platforms like AWS",
+          "Experience in agile development",
+          "Experience with REST APIs",
+          "Understanding of responsive design"
+        ]
+      },
+      {
+        "id": "594b47af-c4da-45c9-a910-bfceed2219b0",
+        "title": "DevOps Engineer",
+        "bannerImage": "https://i.ibb.co.com/v6QgXjKS/Dev-Ops-Engineer.jpg",
+        "location": "Los Angeles, CA",
+        "salary": "$70000 - $164000",
+        "jobType": "Full-time",
+        "description": "We are looking for an experienced and passionate DevOps Engineer to join our team full-time in Los Angeles, CA. In this role, you will be responsible for managing, automating, and optimizing our cloud infrastructure and development pipelines. You will work closely with software developers, QA engineers, and IT teams to ensure efficient integration, delivery, and deployment of software solutions. The ideal candidate will have hands-on experience with cloud platforms such as AWS, a deep understanding of CI/CD processes, and the ability to troubleshoot complex system issues. Familiarity with Git for version control, agile workflows, and responsive systems architecture is essential. Strong collaboration skills and the ability to thrive in a fast-paced, team-oriented environment are also critical. If you’re excited about automating infrastructure, enhancing system reliability, and being part of a company that values innovation and growth — we’d love to hear from you.",
+        "requirements": [
+          "Ability to work in a team",
+          "Knowledge of cloud platforms like AWS",
+          "Understanding of responsive design",
+          "Knowledge of Git and version control",
+          "Experience in agile development"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "46638995-49df-4dbf-89e4-33807e30957b",
+    "name": "NextPhase Technologies",
+    "logo": "https://i.ibb.co.com/gLkNYRKj/Next-Phase-Technologies.jpg",
+    "location": "Remote",
+    "website": "https://nextphasetechnologies.com",
+    "industry": "Cybersecurity",
+    "jobs": [
+      {
+        "id": "107c8fb9-e9ad-4599-a94a-b56eac07b1cc",
+        "title": "Full Stack Developer",
+        "bannerImage": "https://i.ibb.co.com/2Y0FmxWr/Full-Stack-Developer.jpg",
+        "location": "San Francisco, CA",
+        "salary": "$111000 - $134000",
+        "jobType": "Contract",
+        "description": "We are currently hiring a highly skilled Full Stack Developer for a contract position based in San Francisco, CA. As a Full Stack Developer, you will play a vital role in building robust, scalable web applications using both frontend and backend technologies. You will collaborate with cross-functional teams to design, develop, and deploy dynamic features and user experiences. Ideal candidates will have strong problem-solving skills and a passion for clean, maintainable code. You should be proficient in working with REST APIs, have a solid understanding of responsive design, and thrive in an agile development environment. The role requires excellent communication skills and the ability to contribute effectively in a team setting. This is a great opportunity for developers who enjoy ownership of their work and want to make meaningful contributions to real-world projects on a flexible, contract basis.",
+        "requirements": [
+          "Strong problem-solving skills",
+          "Experience with REST APIs",
+          "Experience in agile development",
+          "Understanding of responsive design",
+          "Ability to work in a team"
+        ]
+      },
+      {
+        "id": "12b84648-0ac8-45a9-9451-791b1c84655e",
+        "title": "UI/UX Designer",
+        "bannerImage": "https://i.ibb.co.com/xSJSRkWD/UI-UX-Designerjobcover.jpg",
+        "location": "Seattle, WA",
+        "salary": "$98000 - $145000",
+        "jobType": "Internship",
+        "description": "We are offering an exciting internship opportunity for a talented and creative UI/UX Designer to join our team in Seattle, WA. This role will give you hands-on experience in designing intuitive and visually appealing user interfaces, conducting user research, and translating user needs into functional design solutions. As an intern, you will work closely with product managers, developers, and senior designers to shape seamless user experiences across web and mobile platforms. The ideal candidate has a passion for user-centric design, an eye for detail, and a solid understanding of design principles and modern tools like Figma or Adobe XD. Familiarity with version control systems like Git, agile development environments, and RESTful API integration is a plus. You’ll also gain exposure to CI/CD workflows and cross-functional collaboration. If you’re eager to learn, contribute to real-world projects, and grow in a supportive design-focused team — we encourage you to apply.",
+        "requirements": [
+          "Familiarity with CI/CD tools",
+          "Experience in agile development",
+          "Ability to work in a team",
+          "Knowledge of Git and version control",
+          "Experience with REST APIs"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "91212763-07f4-420b-955a-f641f5eb4dc0",
+    "name": "BrightPath IT",
+    "logo": "https://i.ibb.co.com/nWKvVzy/Bright-Path-IT.jpg",
+    "location": "Los Angeles, CA",
+    "website": "https://brightpathit.com",
+    "industry": "Cybersecurity",
+    "jobs": [
+      {
+        "id": "fd266adc-25cc-4db6-be59-e3a49ade2e5c",
+        "title": "Full Stack Developer",
+        "bannerImage": "https://i.ibb.co.com/2Y0FmxWr/Full-Stack-Developer.jpg",
+        "location": "Chicago, IL",
+        "salary": "$77000 - $167000",
+        "jobType": "Part-time",
+        "description": "We are seeking a skilled and motivated Full Stack Developer for a part-time position based in Chicago, IL. This role offers the opportunity to work on dynamic and impactful web applications using both frontend and backend technologies. As a Full Stack Developer, you will collaborate with cross-functional teams to design, develop, and deploy scalable web solutions. You will work on a range of projects, including creating responsive user interfaces, building robust APIs, and integrating with databases. The ideal candidate has excellent communication and problem-solving skills, a strong grasp of responsive design principles, and is comfortable working in both independent and team-based settings. Proficiency with Git version control and a solid understanding of modern development workflows are essential. If you're looking for a flexible work environment where you can apply your skills, grow professionally, and contribute to meaningful products — we would love to hear from you.",
+        "requirements": [
+          "Strong problem-solving skills",
+          "Understanding of responsive design",
+          "Excellent communication skills",
+          "Knowledge of Git and version control",
+          "Ability to work in a team"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "2c56f1ee-a2cf-488d-9e8c-d2e28ed436a3",
+    "name": "FusionCore AI",
+    "logo": "https://i.ibb.co.com/Kc1rGVnf/Fusion-Core-AI.jpg",
+    "location": "Austin, TX",
+    "website": "https://fusioncoreai.com",
+    "industry": "FinTech",
+    "jobs": [
+      {
+        "id": "a14172c4-6f5f-4848-9ca3-4beb216ff53d",
+        "title": "DevOps Engineer",
+        "bannerImage": "https://i.ibb.co.com/dspnZR15/Dev-Ops-Engineer1.jpg",
+        "location": "San Francisco, CA",
+        "salary": "$79000 - $133000",
+        "jobType": "Internship",
+        "description": "We are currently looking for a passionate and driven DevOps Engineer Intern to join our team in San Francisco, CA. This internship offers a unique opportunity to gain practical experience in cloud infrastructure management, automation, and continuous integration/continuous deployment (CI/CD) processes. As a DevOps intern, you will work closely with our engineering and operations teams to streamline workflows, support deployment pipelines, and help maintain system reliability and performance. The ideal candidate has a strong interest in cloud technologies, infrastructure automation, and modern development practices. You should possess excellent problem-solving and communication skills, as well as a solid understanding of REST APIs, responsive design principles, and agile development processes. This internship is designed to provide hands-on training and mentorship that will equip you with real-world experience in DevOps culture and tools. If you’re eager to learn, collaborate, and make meaningful contributions to real projects — we encourage you to apply.",
+        "requirements": [
+          "Strong problem-solving skills",
+          "Excellent communication skills",
+          "Understanding of responsive design",
+          "Experience with REST APIs",
+          "Experience in agile development"
+        ]
+      },
+      {
+        "id": "21341696-32e8-481d-95a1-a776325705c9",
+        "title": "Cloud Solutions Architect",
+        "bannerImage": "https://i.ibb.co.com/tTyQKTc5/Cloud-Solutions-Architect1.jpg",
+        "location": "Boston, MA",
+        "salary": "$112000 - $145000",
+        "jobType": "Internship",
+        "description": "We are offering an exciting internship opportunity for aspiring Cloud Solutions Architects at CloudCraft Ltd. In this role, you will assist senior cloud engineers in designing and implementing scalable, secure, and high-performance cloud infrastructures. This internship will provide hands-on experience with industry-standard tools and cloud platforms such as AWS, Azure, and Google Cloud. You will contribute to real-world projects involving system architecture, cloud automation, DevOps, and deployment strategies. We are looking for candidates who have a strong foundation in modern web technologies such as JavaScript and React, and a basic understanding of REST APIs and responsive design. Familiarity with Git version control and agile methodologies is also essential. This is a great opportunity to build your professional portfolio, gain industry knowledge, and grow under the mentorship of experienced cloud professionals. The internship is based in Boston, MA, with hybrid working options available for the right candidate.",
+        "requirements": [
+          "Knowledge of Git and version control",
+          "Experience in agile development",
+          "Understanding of responsive design",
+          "Experience with REST APIs",
+          "Proficient in JavaScript and React"
+        ]
+      },
+      {
+        "id": "9eec5e43-f717-4c47-8d37-53f146302c65",
+        "title": "DevOps Engineer",
+        "bannerImage": "https://i.ibb.co.com/5gJtgFPF/Dev-Ops-Engineer11.jpg",
+        "location": "Austin, TX",
+        "salary": "$93000 - $170000",
+        "jobType": "Part-time",
+        "description": "We are seeking a highly motivated and experienced DevOps Engineer to join our fast-growing team at CloudCraft Ltd. In this role, you will be responsible for maintaining and enhancing our cloud infrastructure, automating workflows, and ensuring smooth CI/CD processes across our development teams. You will collaborate closely with software engineers, system administrators, and product managers to implement scalable and reliable DevOps practices. The ideal candidate has a strong background in AWS, infrastructure as code (IaC), and containerization tools like Docker and Kubernetes. You will also play a key role in monitoring system performance, optimizing deployment strategies, and improving the overall developer experience. If you are passionate about building robust automation pipelines, ensuring system reliability, and working in a dynamic and collaborative environment — we want to hear from you. This is a part-time opportunity based in Austin, TX, with flexible hours and potential for remote collaboration.",
+        "requirements": [
+          "Ability to work in a team",
+          "Familiarity with CI/CD tools",
+          "Understanding of responsive design",
+          "Experience with REST APIs",
+          "Knowledge of cloud platforms like AWS"
+        ]
+      }
+    ]
+  }
+]
