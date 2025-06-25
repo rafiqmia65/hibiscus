@@ -9,6 +9,8 @@
 - 📱 Enjoy a responsive UI optimized for mobile and desktop
 - 🔐 Stay secure with Firebase authentication
 
+
+
 The platform provides a central place to manage job applications effectively with real-time interactivity and sleek UI animations.
 
 ---
